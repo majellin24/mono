@@ -1127,11 +1127,11 @@ ReferenceSources/AppContextDefaultValues.cs
 ../../../external/corefx/src/Common/src/CoreLib/System/IO/PathTooLongException.cs
 ../referencesource/mscorlib/system/io/pinnedbuffermemorystream.cs
 ../referencesource/mscorlib/system/io/stream.cs
-../referencesource/mscorlib/system/io/streamreader.cs
+../../../external/corefx/src/Common/src/CoreLib/System/IO/StreamReader.cs
 ../referencesource/mscorlib/system/io/streamwriter.cs
 ../referencesource/mscorlib/system/io/stringreader.cs
 ../referencesource/mscorlib/system/io/stringwriter.cs
-../referencesource/mscorlib/system/io/textreader.cs
+../../../external/corefx/src/Common/src/CoreLib/System/IO/TextReader.cs
 ../referencesource/mscorlib/system/io/textwriter.cs
 ../referencesource/mscorlib/system/io/unmanagedmemoryaccessor.cs
 ../referencesource/mscorlib/system/io/unmanagedmemorystream.cs

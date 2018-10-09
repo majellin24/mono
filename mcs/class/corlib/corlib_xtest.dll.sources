@@ -328,3 +328,8 @@
 # System.IO.MemoryStream
 ../../../external/corefx/src/System.IO/tests/MemoryStream/*.cs
 ../../../external/corefx/src/Common/tests/System/IO/DelegateStream.cs
+
+# System.IO.TextReader/StreamReader
+../../../external/corefx/src/System.IO/tests/TextReader/*.cs
+../../../external/corefx/src/System.IO/tests/StreamReader/*.cs
+../../../external/corefx/src/System.IO/tests/TestDataProvider/TestDataProvider.cs
